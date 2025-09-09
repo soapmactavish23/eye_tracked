@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="albumentations" />
+          <option value="ipython" />
+          <option value="matplotlib" />
+          <option value="mediapipe" />
+          <option value="mss" />
+          <option value="nncf" />
+          <option value="numpy" />
+          <option value="onnx" />
+          <option value="onnxruntime" />
+          <option value="openvino" />
+          <option value="paddle" />
+          <option value="pafy" />
+          <option value="pandas" />
+          <option value="plotly" />
+          <option value="psutil" />
+          <option value="requests" />
+          <option value="scipy" />
+          <option value="seaborn" />
+          <option value="streamlit" />
+          <option value="tensorflow" />
+          <option value="tensorflowjs" />
+          <option value="thop" />
+          <option value="tqdm" />
+          <option value="ultralytics" />
+          <option value="x2paddle" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
